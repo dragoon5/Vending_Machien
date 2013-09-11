@@ -1,0 +1,6 @@
+itemType=drink, quantity=10, foodName=Water, price=1.0, foodInfo= You should drink more
+itemType=drink, quantity=8, foodName=Coke, price=1.5, foodInfo= This is disgusting, stop drinking this
+itemType=drink, quantity=7, foodName=Milk, price=0.5, foodInfo= This is good, drink more
+itemType=food, quantity=5, foodName=Apple, price=0.5, foodInfo= An apple a day keeps the bed bugs away
+itemType=food, quantity=6, foodName=Cheetos, price=1.0, foodInfo= Warning, eating this may cause people to suck their thumbs
+itemType=food, quantity=5, foodName=Cookie, price=0.5, foodInfo= Warning, eating this may attract the cookie monster
